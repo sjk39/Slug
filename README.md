@@ -1,2 +1,2 @@
 # Slug
-A twist on snake.
+Snake but with a slug.
